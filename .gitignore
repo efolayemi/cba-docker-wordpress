@@ -1,0 +1,8 @@
+# Docker
+**/volumes/
+**/tmp/
+docker-compose.override.yml
+.env
+
+# VS Code
+.vscode/
